@@ -2,7 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bac19c82-68bd-4c5c-85f7-27cad4278408" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Lab_1_Илья/LabsOne.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_1/Lab01.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_1_Илья/Lab01.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_1/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_1_Илья/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_13/Lab13.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_13_Илья/Lab13.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_13/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_13_Илья/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_14/Lab14.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_14_Илья/Lab14.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_14/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_14_Илья/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_5/Lab05.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_5_Илья/Lab05.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_5/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_5_Илья/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_9/Lab09.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_9_Илья/Lab09.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_9/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_9_Илья/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,11 +26,24 @@
       <executable />
     </execution>
   </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Lab_1/index.js">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lab_1_Илья/index.js">
           <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Lab_1_Илья/LabsOne.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -38,13 +62,16 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Lab_1/index.js" />
+        <option value="$PROJECT_DIR$/Lab_1/LabsOne.java" />
+        <option value="$PROJECT_DIR$/Lab_1_Илья/LabsOne.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="y" value="22" />
-    <option name="width" value="1920" />
-    <option name="height" value="1002" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="20" />
+    <option name="y" value="23" />
+    <option name="width" value="1880" />
+    <option name="height" value="1000" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -54,7 +81,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -65,18 +92,20 @@
             <path>
               <item name="Labs_Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="Labs_Java" type="462c0819:PsiDirectoryNode" />
-              <item name="Lab_1" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab_5_Илья" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -111,16 +140,22 @@
       <updated>1571770044564</updated>
       <workItem from="1571770045719" duration="725000" />
       <workItem from="1571837267592" duration="532000" />
+      <workItem from="1572079974342" duration="22000" />
+      <workItem from="1572264722688" duration="526000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1257000" />
+    <option name="totallyTimeSpent" value="1805000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1920" height="1002" extended-state="1" />
+    <frame x="20" y="23" width="1880" height="1000" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25294748" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25897714" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -133,8 +168,13 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.33073497" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3314978" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -145,8 +185,30 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Lab_1/index.js">
+    <entry file="file://$PROJECT_DIR$/Lab_1_Илья/index.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/Lab_1_Илья/LabsOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
