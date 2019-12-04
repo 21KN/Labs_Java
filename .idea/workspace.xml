@@ -5,7 +5,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lab_2/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_2/index.js" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +19,9 @@
     <option name="testRunner" value="GRADLE" />
     <option name="delegatedBuild" value="true" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Labs_Java" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -33,6 +35,11 @@
   <component name="ProjectId" id="1U6zZdvkiQiiyvJy13nCx6OdnAL" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -49,18 +56,6 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
   <component name="RunManager">
     <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Lab_2/index.js" working-dir="$PROJECT_DIR$/Lab_2">
       <method v="2" />
@@ -70,6 +65,18 @@
         <item itemvalue="Node.js.index.js" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -85,7 +92,11 @@
       <workItem from="1571837267592" duration="532000" />
       <workItem from="1572079974342" duration="22000" />
       <workItem from="1572264722688" duration="526000" />
-      <workItem from="1574691890383" duration="511000" />
+      <workItem from="1574691890383" duration="834000" />
+      <workItem from="1574783109228" duration="65000" />
+      <workItem from="1575136920664" duration="598000" />
+      <workItem from="1575225610241" duration="9000" />
+      <workItem from="1575469524090" duration="3341000" />
     </task>
     <servers />
   </component>
@@ -97,11 +108,93 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1866" height="268" key="GridCell.Tab.0.bottom" timestamp="1575473078659">
+      <screen x="0" y="22" width="1920" height="1000" />
+    </state>
+    <state width="1866" height="268" key="GridCell.Tab.0.bottom/0.22.1920.1000/-1920.22.1920.1058@0.22.1920.1000" timestamp="1575473078659" />
+    <state width="1866" height="268" key="GridCell.Tab.0.center" timestamp="1575473078658">
+      <screen x="0" y="22" width="1920" height="1000" />
+    </state>
+    <state width="1866" height="268" key="GridCell.Tab.0.center/0.22.1920.1000/-1920.22.1920.1058@0.22.1920.1000" timestamp="1575473078658" />
+    <state width="1866" height="268" key="GridCell.Tab.0.left" timestamp="1575473078658">
+      <screen x="0" y="22" width="1920" height="1000" />
+    </state>
+    <state width="1866" height="268" key="GridCell.Tab.0.left/0.22.1920.1000/-1920.22.1920.1058@0.22.1920.1000" timestamp="1575473078658" />
+    <state width="1866" height="268" key="GridCell.Tab.0.right" timestamp="1575473078659">
+      <screen x="0" y="22" width="1920" height="1000" />
+    </state>
+    <state width="1866" height="268" key="GridCell.Tab.0.right/0.22.1920.1000/-1920.22.1920.1058@0.22.1920.1000" timestamp="1575473078659" />
+    <state width="1866" height="331" key="GridCell.Tab.1.bottom" timestamp="1575470553108">
+      <screen x="0" y="22" width="1920" height="1000" />
+    </state>
+    <state width="1866" height="331" key="GridCell.Tab.1.bottom/0.22.1920.1000/-1920.22.1920.1058@0.22.1920.1000" timestamp="1575470553108" />
+    <state width="1866" height="331" key="GridCell.Tab.1.center" timestamp="1575470553107">
+      <screen x="0" y="22" width="1920" height="1000" />
+    </state>
+    <state width="1866" height="331" key="GridCell.Tab.1.center/0.22.1920.1000/-1920.22.1920.1058@0.22.1920.1000" timestamp="1575470553107" />
+    <state width="1866" height="331" key="GridCell.Tab.1.left" timestamp="1575470553107">
+      <screen x="0" y="22" width="1920" height="1000" />
+    </state>
+    <state width="1866" height="331" key="GridCell.Tab.1.left/0.22.1920.1000/-1920.22.1920.1058@0.22.1920.1000" timestamp="1575470553107" />
+    <state width="1866" height="331" key="GridCell.Tab.1.right" timestamp="1575470553108">
+      <screen x="0" y="22" width="1920" height="1000" />
+    </state>
+    <state width="1866" height="331" key="GridCell.Tab.1.right/0.22.1920.1000/-1920.22.1920.1058@0.22.1920.1000" timestamp="1575470553108" />
+    <state width="1866" height="331" key="GridCell.Tab.2.bottom" timestamp="1575470553108">
+      <screen x="0" y="22" width="1920" height="1000" />
+    </state>
+    <state width="1866" height="331" key="GridCell.Tab.2.bottom/0.22.1920.1000/-1920.22.1920.1058@0.22.1920.1000" timestamp="1575470553108" />
+    <state width="1866" height="331" key="GridCell.Tab.2.center" timestamp="1575470553108">
+      <screen x="0" y="22" width="1920" height="1000" />
+    </state>
+    <state width="1866" height="331" key="GridCell.Tab.2.center/0.22.1920.1000/-1920.22.1920.1058@0.22.1920.1000" timestamp="1575470553108" />
+    <state width="1866" height="331" key="GridCell.Tab.2.left" timestamp="1575470553108">
+      <screen x="0" y="22" width="1920" height="1000" />
+    </state>
+    <state width="1866" height="331" key="GridCell.Tab.2.left/0.22.1920.1000/-1920.22.1920.1058@0.22.1920.1000" timestamp="1575470553108" />
+    <state width="1866" height="331" key="GridCell.Tab.2.right" timestamp="1575470553108">
+      <screen x="0" y="22" width="1920" height="1000" />
+    </state>
+    <state width="1866" height="331" key="GridCell.Tab.2.right/0.22.1920.1000/-1920.22.1920.1058@0.22.1920.1000" timestamp="1575470553108" />
+    <state width="1866" height="331" key="GridCell.Tab.3.bottom" timestamp="1575470553109">
+      <screen x="0" y="22" width="1920" height="1000" />
+    </state>
+    <state width="1866" height="331" key="GridCell.Tab.3.bottom/0.22.1920.1000/-1920.22.1920.1058@0.22.1920.1000" timestamp="1575470553109" />
+    <state width="1866" height="331" key="GridCell.Tab.3.center" timestamp="1575470553109">
+      <screen x="0" y="22" width="1920" height="1000" />
+    </state>
+    <state width="1866" height="331" key="GridCell.Tab.3.center/0.22.1920.1000/-1920.22.1920.1058@0.22.1920.1000" timestamp="1575470553109" />
+    <state width="1866" height="331" key="GridCell.Tab.3.left" timestamp="1575470553109">
+      <screen x="0" y="22" width="1920" height="1000" />
+    </state>
+    <state width="1866" height="331" key="GridCell.Tab.3.left/0.22.1920.1000/-1920.22.1920.1058@0.22.1920.1000" timestamp="1575470553109" />
+    <state width="1866" height="331" key="GridCell.Tab.3.right" timestamp="1575470553109">
+      <screen x="0" y="22" width="1920" height="1000" />
+    </state>
+    <state width="1866" height="331" key="GridCell.Tab.3.right/0.22.1920.1000/-1920.22.1920.1058@0.22.1920.1000" timestamp="1575470553109" />
   </component>
   <component name="masterDetails">
     <states>
