@@ -93,11 +93,12 @@ newTask4.calObject()
 
 
 class Detail {
+
     saveDate(name, trademark, country, manufacturer, dateOfManufacture, uptime, comment) {
 
-        if (typeof name || typeof trademark || typeof country || typeof manufacturer || typeof dateOfManufacture || typeof uptime || typeof comment === undefined) {
-            console.error('Введите все данные');
-        }
+        // if (typeof name || typeof trademark || typeof country || typeof manufacturer || typeof dateOfManufacture || typeof uptime || typeof comment === undefined) {
+        //     console.error('Введите все данные');
+        // }
 
         console.log(`Имя ${name} Торгова Марка ${trademark} Страна ${country} Виробник ${manufacturer} Дата Виробництва ${dateOfManufacture} Час Безвідмовної Роботи ${uptime} Коментарий ${comment}`)
 
@@ -105,7 +106,7 @@ class Detail {
     }
 
     establishmentDate() {
-        console.log('Дата: ' +new Date())
+        console.log('Дата: ' + new Date())
     }
 }
 
