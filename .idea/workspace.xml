@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bac19c82-68bd-4c5c-85f7-27cad4278408" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Lab_1_Илья/Evgen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_2/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_2/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_3/index.js" beforeDir="false" />
-    </list>
+    <list default="true" id="bac19c82-68bd-4c5c-85f7-27cad4278408" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -100,7 +94,7 @@
       <workItem from="1575817524935" duration="176000" />
       <workItem from="1576064947104" duration="761000" />
       <workItem from="1576066945623" duration="433000" />
-      <workItem from="1576067419812" duration="1444000" />
+      <workItem from="1576067419812" duration="1705000" />
     </task>
     <servers />
   </component>
