@@ -28,7 +28,7 @@ class Statistic {
 const newStatistic = new Statistic();
 // newStatistic.addResultExperiment(40, 10);
 // newStatistic.searchMinimumMaximum(10,20);
-newStatistic.searchAverage(12,32,42)
+// newStatistic.searchAverage(12,32,42)
 
 // Lab_2_task_2
 
@@ -56,28 +56,36 @@ class Task3 extends Dog {
         super();
         this.age = 0;
         this.name = 'Незнайомець,';
+
     }
 
     task3NewNameAge(name, age) {
         console.log('Собака ' + name + ' Вік ' + age);
+        // this.newTask4.calObject();
     }
 }
 
 const newTask3 = new Task3();
-newTask3.task3NewNameAge('Пугач', 21)
+// newTask3.task3NewNameAge('Пугач', 21)
 
 
 //Lab_2_task_4
 
-class Task4 extends Task3 {
+class Task4 {
     constructor() {
-        super(age, name);
+        this.count = 0;
     }
 
     calObject() {
-
+        this.count++;
+        console.log('Количество созданных объектов: ' + this.count)
+        Task3.prototype.task3NewNameAge('Пугач', 21)
     }
 }
+
+const newTask4 = new Task4();
+newTask4.calObject()
+
 
 
 
@@ -102,4 +110,4 @@ class Detail {
 }
 
 const newDetail = new Detail();
-newDetail.saveDate('Ilya','РошенBadChoc')
+// newDetail.saveDate('Ilya','РошенBadChoc')
