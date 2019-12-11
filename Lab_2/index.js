@@ -1,5 +1,6 @@
 
 //Lab_2_task_1 - не совсем понятные задания
+
 class Statistic {
     constructor(result) {
         this.result = result;
@@ -46,7 +47,7 @@ class Dog {
 }
 
 const newDog = new Dog(10, 'Frederico');
-newDog.sayHi(1)
+// newDog.sayHi(1)
 
 
 //Lab_2_task_3
@@ -61,7 +62,6 @@ class Task3 extends Dog {
 
     task3NewNameAge(name, age) {
         console.log('Собака ' + name + ' Вік ' + age);
-        // this.newTask4.calObject();
     }
 }
 
@@ -84,21 +84,15 @@ class Task4 {
 }
 
 const newTask4 = new Task4();
-newTask4.calObject()
-
-
+// newTask4.calObject()
+// newTask4.calObject()
 
 
 //Lab_2_task_5
 
-
 class Detail {
 
     saveDate(name, trademark, country, manufacturer, dateOfManufacture, uptime, comment) {
-
-        // if (typeof name || typeof trademark || typeof country || typeof manufacturer || typeof dateOfManufacture || typeof uptime || typeof comment === undefined) {
-        //     console.error('Введите все данные');
-        // }
 
         console.log(`Имя ${name} Торгова Марка ${trademark} Страна ${country} Виробник ${manufacturer} Дата Виробництва ${dateOfManufacture} Час Безвідмовної Роботи ${uptime} Коментарий ${comment}`)
 
@@ -112,3 +106,41 @@ class Detail {
 
 const newDetail = new Detail();
 // newDetail.saveDate('Ilya','РошенBadChoc')
+
+//Lab_2_task_6
+
+class WorkAllClasses {
+
+    classDetail(name, trademark, country, manufacturer, dateOfManufacture, uptime, comment) {
+        newDetail.saveDate(name, trademark, country, manufacturer, dateOfManufacture, uptime, comment)
+    }
+
+    // classTask4() {
+    //     newTask4.calObject()     // это класс нужен для подсчета объектов
+    // }
+
+    classTask3(name, age) {
+        newTask3.task3NewNameAge(name, age)
+    }
+
+    classTask2(age) {
+        newDog.sayHi(age)
+    }
+
+    classTask1_1() {
+        newStatistic.searchAverage()
+    }
+
+    classTask1_2(min, max) {
+        newStatistic.searchMinimumMaximum(min, max)
+    }
+
+    classTask1_3(result, add) {
+        newStatistic.addResultExperiment(result, add)
+    }
+}
+
+const allClasses = new WorkAllClasses()
+// allClasses.classDetail('Рошен', 'Bablo', 'Ukraine', 'nameManu', '11.11.11 18:34', '18-34', 'it is comm',)
+// allClasses.classTask3('asd',12)
+// allClasses.classTask1_1()
